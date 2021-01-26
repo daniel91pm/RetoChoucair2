@@ -1,0 +1,18 @@
+userinterface/UtestSignUpPersonalPage.java
+ userinterface.UtestSignUpPersonalPage
+userinterface/UtestJoinPage.java
+ userinterface.UtestJoinPage
+tasks/OpenUtest.java
+ tasks.OpenUtest
+userinterface/UtestSignUpDevicesPage.java
+ userinterface.UtestSignUpDevicesPage
+tasks/Register.java
+ tasks.Register
+userinterface/UtestSignUpAddressPage.java
+ userinterface.UtestSignUpAddressPage
+userinterface/UtestSignUpCompletePage.java
+ userinterface.UtestSignUpCompletePage
+model/RegisterData.java
+ model.RegisterData
+questions/Answer.java
+ questions.Answer
